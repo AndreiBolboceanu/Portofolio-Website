@@ -371,6 +371,7 @@ main{
     background-size: cover;
     padding: 70px 30px;
     text-align: justify;
+    background-position: center;
 }
 #fact .sub-para{
     color: white;
